@@ -1,4 +1,1 @@
 streamlit
-hangman_words
-hangman_art
-random
