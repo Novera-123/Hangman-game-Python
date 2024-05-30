@@ -43,7 +43,7 @@ Go to Streamlit Community Cloud and sign up or log in with your GitHub account.
 - Click on "New app" and select your GitHub repository.
 - Configure the main file path to main.py and click "Deploy".
 
-Share the URL:
+Share the URL: https://hangman-python.streamlit.app/
 
 
 ## Acknowledgements
