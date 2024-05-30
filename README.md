@@ -21,7 +21,7 @@ Hangman is a classic word game where you try to guess a word by suggesting lette
 
 2. Install the required packages:
    ```bash   
-pip install -r requirements.txt ```
+      pip install -r requirements.txt ```
 
 ## Usage
 To run the game locally, execute the following command:
